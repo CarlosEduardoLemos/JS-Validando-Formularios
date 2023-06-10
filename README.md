@@ -9,7 +9,7 @@ Este projeto consiste em implementar validações nos campos do formulário de c
 | :rocket: URL         | https://carloseduardolemos.github.io/JS-Validando-Formularios/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/imagens/screenshot.png#vitrinedev)
+![](https://raw.githubusercontent.com/CarlosEduardoLemos/JS-Validando-Formularios/c473c56dd9879c79537b90fda965c2dda3d810b0/img/Captura%20de%20tela%20de%202023-06-10%2019-17-10.png#vitrinedev)
 
 ## Detalhes do projeto
 
