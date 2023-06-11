@@ -9,8 +9,7 @@ const botaoEnviarFoto = document.querySelector("[data-enviar]")
 let imagemURL = '';
 
 botaoIniciarCamera.addEventListener('click', async function () {
-    const iniciarVideo = await navigator.mediaDevices
-        .getUserMedia({ video: true, audio: false });
+    const iniciarVideo = await navigator.mediaDevices.getUserMedia({ video: true, audio: false });
 
     botaoIniciarCamera.style.display = "none";
     campoCamera.style.display = "block";
